@@ -1,2 +1,2 @@
-# C101_C-
+# CC101_C++
 Fundamentals of Programming using C++ Language
